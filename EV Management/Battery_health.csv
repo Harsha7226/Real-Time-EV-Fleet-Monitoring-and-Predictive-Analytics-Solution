@@ -1,0 +1,7 @@
+Battery ID,Percentage,Current (A),Voltage (V),Temperature (°C),Internal Resistance (Ω),Battery Performance
+B12345,85,2.5,3.7,25,0.05,Good
+B67890,60,3,3.5,30,0.08,Fair
+B13579,92,1.8,3.8,20,0.03,Excellent
+B24680,45,4.2,3.2,35,0.12,Poor
+B56789,78,2,3.6,28,0.06,Good
+B98765,55,3.5,3.4,32,0.1,Fair
